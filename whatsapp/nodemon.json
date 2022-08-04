@@ -1,0 +1,7 @@
+{
+  "ignore": [
+    "test/*",
+    "public/*"
+  ],
+  "ext": "js,json"
+}
